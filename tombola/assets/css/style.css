@@ -1,0 +1,29 @@
+
+body{
+background-color: blanchedalmond;
+}
+.caselle{
+    height: 99px;
+    width: 9%;
+    display: inline-block;
+    border: 1px solid black;
+    font-size: 1.3em;
+    background-color: rgb(246, 204, 168);
+    color:dimgray;
+    padding: 5px;
+}
+
+.numeroUscito{
+    background-color: orange;
+}
+
+.button{
+    height: 100px;
+    width: 200px;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 30px;
+    color: yellow;
+    background-color: darkred;
+    border-radius: 50%;
+}
